@@ -1,3 +1,4 @@
+<!--jp-->
 # SQL Exercises
 
 ## Topics
