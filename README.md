@@ -1,4 +1,5 @@
 <!--jp-->
+<!--jp-->
 # SQL Exercises
 
 ## Topics
